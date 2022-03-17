@@ -1,4 +1,4 @@
-# discordbot
+# LFG Dicord Bot
 
 The bot provides MMOrpg games a way of using announcement channels in their own discords to find groups <br>
 Discord admins can create a community channel in their servers and a channel in their own server with roles <br>
